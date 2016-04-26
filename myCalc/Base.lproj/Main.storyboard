@@ -153,16 +153,8 @@
                     </view>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
                     <connections>
+                        <outlet property="btn7" destination="hQ9-p4-Cpx" id="Ma3-2e-NPV"/>
                         <outlet property="inputNum0" destination="tPx-Pk-ZWy" id="AE6-bU-8ha"/>
-                        <outlet property="inputNum1" destination="hQ9-p4-Cpx" id="fQV-8o-wPg"/>
-                        <outlet property="inputNum2" destination="J4n-Hf-4GA" id="oVG-II-JfE"/>
-                        <outlet property="inputNum3" destination="CHB-BG-gIu" id="D0E-mj-hae"/>
-                        <outlet property="inputNum4" destination="Tyh-rA-cuf" id="uIr-UF-b4n"/>
-                        <outlet property="inputNum5" destination="UPU-hO-O9R" id="3Uh-hB-iKa"/>
-                        <outlet property="inputNum6" destination="zPv-72-XGm" id="ag7-b6-iro"/>
-                        <outlet property="inputNum7" destination="boK-qS-EGs" id="ZfP-ru-3NZ"/>
-                        <outlet property="inputNum8" destination="LDW-sx-nPE" id="lwg-rp-6Bb"/>
-                        <outlet property="inputNum9" destination="kmI-ze-4hg" id="Kud-HY-3sm"/>
                         <outlet property="numOutput" destination="Smy-Ky-eus" id="x69-JZ-8Q9"/>
                         <outlet property="result" destination="Smy-Ky-eus" id="Vce-Xn-1NW"/>
                     </connections>
